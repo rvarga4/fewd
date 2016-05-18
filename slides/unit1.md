@@ -14,7 +14,7 @@ class: center, middle
 
 ???
 
-* tradidionally someone with a graphics design background
+* traditionally someone with a graphics design background
 * many early web designers came from the world of print design
 * strong grasp of color, typography, space, audience and user experience
 * Photoshop, Illustrator, InDesign, Sketch
@@ -37,7 +37,7 @@ class: center, middle
 
 * that's us!
 * builds websites from the ground up by hand
-* typocally self-taught or computer science background
+* typically self-taught or computer science background
 * clean code and technically sound
 * HTML, CSS, JavaScript
 
