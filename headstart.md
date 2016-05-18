@@ -11,7 +11,7 @@ permalink: /headstart
 * [So you want to be a front end developer](https://medium.com/shopify-ux/so-you-want-to-be-a-front-end-devleoper-f8be110f1d5f#.isr0nmfdd) A practical guide to growth for junior developers.
 * [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard) What beginners need to know about the journey ahead.
 * [State of Front-end Development](http://alistapart.com/event/front-end-dev/) Things are changing quickly. What do we need to know now?
-* [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015) Where do developers live? How much do they earn?
+* [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2016) Where do developers live? How much do they earn?
 * [What Web Can Do Today](https://whatwebcando.today) Can I rely on the web platform features to build my app?
 * [Domain Name System](https://webhostinggeeks.com/guides/dns/) DNS explained in simple terms.
 
